@@ -45,8 +45,20 @@ const getAllAccountsByMemberIdService = async (memberId) => {
     }
 }
 
+const createAccount = async (account) => {
+    try {
+        const dbaccount = await Account.create(account);
+        logger.info(`Create account completed`)
+        return dbaccount
+    } catch (error) {
+        logger.error(`Cannot create account with error ${error}`)
+        return null
+    }
+}
+
 module.exports = {
     getAllAccountsByMemberId,
     getAllAccountsByMemberIdService,
-    getAllAccountsByAccountNumber
+    getAllAccountsByAccountNumber,
+    createAccount,
 }

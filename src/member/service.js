@@ -1,3 +1,5 @@
+const bcryptService = require('../api/bcryptService');
+const { getLastNChars } = require('../api/common');
 const logger = require('../api/logger');
 const { Member } = require('../models'); // Adjust this import according to your project structure
 
@@ -47,8 +49,33 @@ const resetPassword = async (id, newpass) => {
     }
     return response
 }
-module.exports={
+
+
+const createMember = async (name, tel, password) => {
+    try {
+        // ********* Check exist user ***********
+        const phone8chars = getLastNChars(tel, 8)
+        const dbMember = await getUserByTel(phone8chars)
+        if (dbMember) {
+            logger.error(`User already existed `)
+            throw new Error(`User already existed ${dbMember.name}`)
+            return null
+        }
+        const hashedPassword = await bcryptService.hashPassword(password);
+        const member = await Member.create({
+            name: name,
+            tel: phone8chars,
+            password: hashedPassword
+        });
+        return member
+    } catch (error) {
+        logger.error(`Cannot register user with error ${error}`)
+        return null
+    }
+}
+module.exports = {
     getUserByTel,
     getUserByPk,
-    resetPassword
+    resetPassword,
+    createMember
 }
