@@ -6598,3 +6598,344 @@
 {"level":"warn","message":"User name from token: John Doe","timestamp":"2024-05-21T03:36:28.415Z"}
 {"level":"warn","message":"Signout: ","timestamp":"2024-05-21T03:36:30.710Z"}
 {"level":"info","message":"Middleware header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiY3VzX2lkIjoxMDAyLCJjdXNfbmFtZSI6IkpvaG4gRG9lIiwiY3VzX3RlbCI6IisxMjM0NTY3ODkwIiwidXNlckdyb3VwIjp7ImNvZGUiOiJTVVBFUiBVU0VSIiwibmFtZSI6IuC6l-C6teC6oeC6h-C6suC6mSDguqrgurHguprgup7guq3gupTguqXgurDguprgurvgupoiLCJpZCI6MX0sInRlcm1pbmFsIjpbXSwiaWF0IjoxNzE2MjYyNTY5LCJleHAiOjE3MTYzNDg5Njl9.Xly87d2hGNcLZpwe96aW8u5dWpyzfq3L9X0MtAg5ljQ","timestamp":"2024-05-21T03:36:30.711Z"}
+{"level":"info","message":"Hello, Winston!","timestamp":"2024-06-01T03:06:26.540Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2024-06-01T03:06:26.543Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2024-06-01T03:06:26.543Z"}
+{"level":"info","message":"This is an information message.","timestamp":"2024-06-01T03:06:26.544Z"}
+{"ip":"192.168.1.1","level":"info","message":"User logged in","timestamp":"2024-06-01T03:06:26.544Z","username":"johndoe"}
+{"level":"info","message":"Dcommerce is up","timestamp":"2024-06-01T03:06:27.132Z"}
+{"level":"info","message":"app is runing: 8888","timestamp":"2024-06-01T03:06:27.133Z"}
+{"level":"warn","message":"env: user_dev","timestamp":"2024-06-01T03:06:27.134Z"}
+{"level":"info","message":"client_db Connection established","timestamp":"2024-06-01T03:06:27.491Z"}
+{"level":"info","message":"Datatase client is synchronize","timestamp":"2024-06-01T03:06:31.813Z"}
+{"level":"info","message":"Hello, Winston!","timestamp":"2024-06-01T03:09:12.033Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2024-06-01T03:09:12.035Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2024-06-01T03:09:12.036Z"}
+{"level":"info","message":"This is an information message.","timestamp":"2024-06-01T03:09:12.036Z"}
+{"ip":"192.168.1.1","level":"info","message":"User logged in","timestamp":"2024-06-01T03:09:12.037Z","username":"johndoe"}
+{"level":"info","message":"Dcommerce is up","timestamp":"2024-06-01T03:09:12.757Z"}
+{"level":"info","message":"app is runing: 8888","timestamp":"2024-06-01T03:09:12.758Z"}
+{"level":"warn","message":"env: user_dev","timestamp":"2024-06-01T03:09:12.758Z"}
+{"level":"info","message":"client_db Connection established","timestamp":"2024-06-01T03:09:13.222Z"}
+{"level":"info","message":"Datatase client is synchronize","timestamp":"2024-06-01T03:09:16.725Z"}
+{"level":"info","message":"Hello, Winston!","timestamp":"2024-06-01T03:09:40.261Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2024-06-01T03:09:40.264Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2024-06-01T03:09:40.265Z"}
+{"level":"info","message":"This is an information message.","timestamp":"2024-06-01T03:09:40.265Z"}
+{"ip":"192.168.1.1","level":"info","message":"User logged in","timestamp":"2024-06-01T03:09:40.265Z","username":"johndoe"}
+{"level":"info","message":"Dcommerce is up","timestamp":"2024-06-01T03:09:40.902Z"}
+{"level":"info","message":"app is runing: 8888","timestamp":"2024-06-01T03:09:40.903Z"}
+{"level":"warn","message":"env: user_dev","timestamp":"2024-06-01T03:09:40.904Z"}
+{"level":"info","message":"client_db Connection established","timestamp":"2024-06-01T03:09:41.099Z"}
+{"level":"info","message":"Datatase client is synchronize","timestamp":"2024-06-01T03:09:44.706Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T03:14:06.744Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T03:26:51.076Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T03:27:01.695Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T03:27:01.762Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T03:27:28.805Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T05:41:04.978Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T05:41:14.360Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T05:41:23.570Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T05:50:38.171Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T05:51:06.796Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T05:53:56.654Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T05:53:56.723Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-01T05:57:30.597Z"}
+{"level":"info","message":"user found null","timestamp":"2024-06-01T05:57:30.765Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-01T05:58:41.805Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$gdZjjWHX.5HYntiTciZHX.guD5nH.HyJ.bPR4bUulIUEHcESw/wUu\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-05-16T03:16:21.000Z\"}","timestamp":"2024-06-01T05:58:41.858Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-01T05:58:41.858Z"}
+{"level":"error","message":"Authenticate fail","timestamp":"2024-06-01T05:58:41.937Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-01T05:58:48.288Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$gdZjjWHX.5HYntiTciZHX.guD5nH.HyJ.bPR4bUulIUEHcESw/wUu\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-05-16T03:16:21.000Z\"}","timestamp":"2024-06-01T05:58:48.322Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-01T05:58:48.325Z"}
+{"level":"error","message":"Authenticate fail","timestamp":"2024-06-01T05:58:48.418Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-01T05:58:52.060Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$gdZjjWHX.5HYntiTciZHX.guD5nH.HyJ.bPR4bUulIUEHcESw/wUu\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-05-16T03:16:21.000Z\"}","timestamp":"2024-06-01T05:58:52.085Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-01T05:58:52.087Z"}
+{"level":"error","message":"Authenticate fail","timestamp":"2024-06-01T05:58:52.186Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-01T06:01:29.537Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$HCDhCfusM911LBbpyu8ZGeVl6Sy0rSQjgUtCPgL1ZS1CgojTwlXcS\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-06-01T06:01:18.000Z\"}","timestamp":"2024-06-01T06:01:29.613Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-01T06:01:29.614Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-01T06:01:29.689Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzE3MjIxNjg5LCJleHAiOjE3MTczMDgwODl9.73iLVSOKJ6yNayBZlmE98bo4moMWgUb1CuWrywceIXQ","timestamp":"2024-06-01T06:01:29.719Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-01T06:01:29.720Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzE3MjIxNjg5LCJleHAiOjE3MTczMDgwODl9.73iLVSOKJ6yNayBZlmE98bo4moMWgUb1CuWrywceIXQ","timestamp":"2024-06-01T06:01:29.738Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-01T06:01:29.745Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T06:01:36.821Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T06:01:36.825Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T06:03:32.093Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T06:03:32.105Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T06:03:55.740Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T06:03:55.742Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T06:04:08.023Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T06:04:08.049Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T06:04:08.062Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T06:04:08.063Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzE3MjIxNjg5LCJleHAiOjE3MTczMDgwODl9.73iLVSOKJ6yNayBZlmE98bo4moMWgUb1CuWrywceIXQ","timestamp":"2024-06-01T06:04:45.482Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-01T06:04:45.486Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T06:04:51.677Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T06:04:51.678Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T06:04:51.704Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T06:04:51.707Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T07:02:11.494Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:02:11.962Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:02:11.962Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T07:02:13.730Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:02:13.790Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:02:13.790Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-01T07:02:30.137Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:02:37.924Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:02:37.924Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:02:37.944Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:02:37.945Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:03:15.134Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:03:15.137Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:03:15.143Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:03:15.145Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:03:38.886Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:03:38.888Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:04:12.778Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:04:12.778Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-01T07:04:12.890Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-01T07:04:12.890Z"}
+{"level":"info","message":"Hello, Winston!","timestamp":"2024-06-03T14:14:02.351Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2024-06-03T14:14:02.354Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2024-06-03T14:14:02.354Z"}
+{"level":"info","message":"This is an information message.","timestamp":"2024-06-03T14:14:02.355Z"}
+{"ip":"192.168.1.1","level":"info","message":"User logged in","timestamp":"2024-06-03T14:14:02.355Z","username":"johndoe"}
+{"level":"info","message":"Dcommerce is up","timestamp":"2024-06-03T14:14:03.767Z"}
+{"level":"info","message":"app is runing: 8888","timestamp":"2024-06-03T14:14:03.767Z"}
+{"level":"warn","message":"env: user_dev","timestamp":"2024-06-03T14:14:03.768Z"}
+{"level":"error","message":"client_db Connection error: SequelizeConnectionError: (conn:-1, no: 45012, SQLState: 08S01) Connection timeout: failed to create socket after 1002ms","timestamp":"2024-06-03T14:14:04.757Z"}
+{"level":"info","message":"Hello, Winston!","timestamp":"2024-06-03T14:18:16.085Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2024-06-03T14:18:16.087Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2024-06-03T14:18:16.088Z"}
+{"level":"info","message":"This is an information message.","timestamp":"2024-06-03T14:18:16.088Z"}
+{"ip":"192.168.1.1","level":"info","message":"User logged in","timestamp":"2024-06-03T14:18:16.088Z","username":"johndoe"}
+{"level":"info","message":"Dcommerce is up","timestamp":"2024-06-03T14:18:16.581Z"}
+{"level":"info","message":"app is runing: 8888","timestamp":"2024-06-03T14:18:16.582Z"}
+{"level":"warn","message":"env: user_dev","timestamp":"2024-06-03T14:18:16.583Z"}
+{"level":"info","message":"client_db Connection established","timestamp":"2024-06-03T14:18:16.770Z"}
+{"level":"info","message":"Datatase client is synchronize","timestamp":"2024-06-03T14:18:21.397Z"}
+{"level":"info","message":"user found null","timestamp":"2024-06-03T14:20:10.915Z"}
+{"level":"info","message":"Register user completed SOUBIN ","timestamp":"2024-06-03T14:20:11.028Z"}
+{"level":"warn","message":"Account data {\"accountNumber\":\"899489934449\",\"accountName\":\"TEST ACOUNT XYZ\",\"id\":null,\"bankId\":2,\"memberId\":9}","timestamp":"2024-06-03T14:20:11.029Z"}
+{"level":"info","message":"Create account completed","timestamp":"2024-06-03T14:20:11.050Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-03T14:20:20.977Z"}
+{"level":"info","message":"user found {\"id\":9,\"name\":\"SOUBIN\",\"tel\":\"77777777\",\"password\":\"$2b$10$Q9ZV.uh9xYJ0lTTNoL1Rne/jBHQ8KbKiGSh2u/JfrkERoUuFpH04e\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-06-03T14:20:11.000Z\",\"updateTimestamp\":\"2024-06-03T14:20:11.000Z\"}","timestamp":"2024-06-03T14:20:21.125Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-03T14:20:21.128Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-03T14:20:21.228Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDI0NDIxLCJleHAiOjE3MTc1MTA4MjF9.hpUpuKMgavDKkPpkvSMDQU9yFE-SSPd12X2JGtTcdhQ","timestamp":"2024-06-03T14:20:21.234Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-03T14:20:21.235Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDI0NDIxLCJleHAiOjE3MTc1MTA4MjF9.hpUpuKMgavDKkPpkvSMDQU9yFE-SSPd12X2JGtTcdhQ","timestamp":"2024-06-03T14:20:21.246Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-03T14:20:21.249Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:20:23.293Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:20:23.295Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:20:23.298Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:20:23.298Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:20:37.030Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:20:37.031Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:21:09.951Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:21:09.952Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:22:00.115Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:22:00.117Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:22:00.133Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:22:00.133Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:22:08.350Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:22:08.351Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-03T14:34:26.318Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:34:26.389Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:34:26.390Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-03T14:34:30.945Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:34:30.999Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:34:30.999Z"}
+{"level":"warn","message":"Signout: ","timestamp":"2024-06-03T14:34:57.572Z"}
+{"level":"info","message":"Middleware header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDI0NDIxLCJleHAiOjE3MTc1MTA4MjF9.hpUpuKMgavDKkPpkvSMDQU9yFE-SSPd12X2JGtTcdhQ","timestamp":"2024-06-03T14:34:57.573Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-03T14:35:47.206Z"}
+{"level":"info","message":"user found {\"id\":9,\"name\":\"SOUBIN\",\"tel\":\"77777777\",\"password\":\"$2b$10$Q9ZV.uh9xYJ0lTTNoL1Rne/jBHQ8KbKiGSh2u/JfrkERoUuFpH04e\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-06-03T14:20:11.000Z\",\"updateTimestamp\":\"2024-06-03T14:20:11.000Z\"}","timestamp":"2024-06-03T14:35:47.239Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-03T14:35:47.240Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-03T14:35:47.339Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDI1MzQ3LCJleHAiOjE3MTc1MTE3NDd9.JxhaHEOUbIashX371tymekCqAZKzdIdSzUJWVTvkb5k","timestamp":"2024-06-03T14:35:47.341Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-03T14:35:47.341Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDI1MzQ3LCJleHAiOjE3MTc1MTE3NDd9.JxhaHEOUbIashX371tymekCqAZKzdIdSzUJWVTvkb5k","timestamp":"2024-06-03T14:35:47.347Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-03T14:35:47.347Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-06-03T14:41:00.170Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-06-03T14:41:00.171Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDI1MzQ3LCJleHAiOjE3MTc1MTE3NDd9.JxhaHEOUbIashX371tymekCqAZKzdIdSzUJWVTvkb5k","timestamp":"2024-06-03T14:42:44.977Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-03T14:42:44.979Z"}
+{"level":"error","message":"Cannot retreive data with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-03T14:43:20.847Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDI1MzQ3LCJleHAiOjE3MTc1MTE3NDd9.JxhaHEOUbIashX371tymekCqAZKzdIdSzUJWVTvkb5k","timestamp":"2024-06-04T11:16:49.329Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:16:49.339Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-04T11:17:02.189Z"}
+{"level":"error","message":"Cannot find user with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-04T11:17:20.149Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-04T11:17:21.337Z"}
+{"level":"info","message":"user found {\"id\":9,\"name\":\"SOUBIN\",\"tel\":\"77777777\",\"password\":\"$2b$10$Q9ZV.uh9xYJ0lTTNoL1Rne/jBHQ8KbKiGSh2u/JfrkERoUuFpH04e\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-06-03T14:20:11.000Z\",\"updateTimestamp\":\"2024-06-03T14:20:11.000Z\"}","timestamp":"2024-06-04T11:17:21.365Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-04T11:17:21.366Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-04T11:17:21.465Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDk5ODQxLCJleHAiOjE3MTc1ODYyNDF9.uEJkaS-n6nTcJOTnlHkosAL0lro6osna0mU_KsOtgRg","timestamp":"2024-06-04T11:17:21.467Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-04T11:17:21.467Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDk5ODQxLCJleHAiOjE3MTc1ODYyNDF9.uEJkaS-n6nTcJOTnlHkosAL0lro6osna0mU_KsOtgRg","timestamp":"2024-06-04T11:17:21.472Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:17:21.472Z"}
+{"level":"warn","message":"Signout: ","timestamp":"2024-06-04T11:18:43.139Z"}
+{"level":"info","message":"Middleware header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDk5ODQxLCJleHAiOjE3MTc1ODYyNDF9.uEJkaS-n6nTcJOTnlHkosAL0lro6osna0mU_KsOtgRg","timestamp":"2024-06-04T11:18:43.140Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-04T11:18:53.230Z"}
+{"level":"info","message":"user found {\"id\":9,\"name\":\"SOUBIN\",\"tel\":\"77777777\",\"password\":\"$2b$10$Q9ZV.uh9xYJ0lTTNoL1Rne/jBHQ8KbKiGSh2u/JfrkERoUuFpH04e\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-06-03T14:20:11.000Z\",\"updateTimestamp\":\"2024-06-03T14:20:11.000Z\"}","timestamp":"2024-06-04T11:18:53.258Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-04T11:18:53.258Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-04T11:18:53.362Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDk5OTMzLCJleHAiOjE3MTc1ODYzMzN9.JfSuKXsW31z1kCrUuS3-TEYDy8WRpgzNWtmNrraJHqM","timestamp":"2024-06-04T11:18:53.365Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-04T11:18:53.365Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NDk5OTMzLCJleHAiOjE3MTc1ODYzMzN9.JfSuKXsW31z1kCrUuS3-TEYDy8WRpgzNWtmNrraJHqM","timestamp":"2024-06-04T11:18:53.371Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:18:53.372Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-04T11:23:35.611Z"}
+{"level":"error","message":"Cannot find user with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-04T11:23:53.797Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-04T11:23:57.463Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-04T11:25:20.672Z"}
+{"level":"info","message":"user found {\"id\":9,\"name\":\"SOUBIN\",\"tel\":\"77777777\",\"password\":\"$2b$10$Q9ZV.uh9xYJ0lTTNoL1Rne/jBHQ8KbKiGSh2u/JfrkERoUuFpH04e\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-06-03T14:20:11.000Z\",\"updateTimestamp\":\"2024-06-03T14:20:11.000Z\"}","timestamp":"2024-06-04T11:25:20.719Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-04T11:25:20.720Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-04T11:25:20.802Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzIwLCJleHAiOjE3MTc1ODY3MjB9.2gOnqBAhWEg_1kzGRrR_YZu7rcOCKUDrj068ZZkapDw","timestamp":"2024-06-04T11:25:20.804Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-04T11:25:20.804Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzIwLCJleHAiOjE3MTc1ODY3MjB9.2gOnqBAhWEg_1kzGRrR_YZu7rcOCKUDrj068ZZkapDw","timestamp":"2024-06-04T11:25:20.809Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:25:20.810Z"}
+{"level":"warn","message":"Signout: ","timestamp":"2024-06-04T11:26:07.503Z"}
+{"level":"info","message":"Middleware header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzIwLCJleHAiOjE3MTc1ODY3MjB9.2gOnqBAhWEg_1kzGRrR_YZu7rcOCKUDrj068ZZkapDw","timestamp":"2024-06-04T11:26:07.505Z"}
+{"level":"error","message":"Cannot find user with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-06-04T11:26:07.768Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-04T11:26:15.873Z"}
+{"level":"info","message":"user found {\"id\":9,\"name\":\"SOUBIN\",\"tel\":\"77777777\",\"password\":\"$2b$10$Q9ZV.uh9xYJ0lTTNoL1Rne/jBHQ8KbKiGSh2u/JfrkERoUuFpH04e\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-06-03T14:20:11.000Z\",\"updateTimestamp\":\"2024-06-03T14:20:11.000Z\"}","timestamp":"2024-06-04T11:26:15.903Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-04T11:26:15.904Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-04T11:26:16.003Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:26:16.004Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-04T11:26:16.004Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:26:16.009Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:26:16.010Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:26:18.434Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:26:18.434Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:27:38.780Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:27:38.787Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:27:56.831Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:27:56.832Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:27:58.968Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:27:58.969Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:30:29.984Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:30:29.986Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:32:48.665Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:32:48.670Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwibmFtZSI6IlNPVUJJTiIsInRlbCI6Ijc3Nzc3Nzc3IiwiaWF0IjoxNzE3NTAwMzc2LCJleHAiOjE3MTc1ODY3NzZ9.WFoyZaxYPuMgpE5HCAD4d5owyEyOe2IMfRQOD1mlmuI","timestamp":"2024-06-04T11:33:28.698Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-04T11:33:28.699Z"}
+{"level":"info","message":"Hello, Winston!","timestamp":"2024-06-20T12:02:50.819Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2024-06-20T12:02:50.821Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2024-06-20T12:02:50.822Z"}
+{"level":"info","message":"This is an information message.","timestamp":"2024-06-20T12:02:50.822Z"}
+{"ip":"192.168.1.1","level":"info","message":"User logged in","timestamp":"2024-06-20T12:02:50.823Z","username":"johndoe"}
+{"level":"info","message":"Dcommerce is up","timestamp":"2024-06-20T12:02:51.354Z"}
+{"level":"info","message":"app is runing: 8888","timestamp":"2024-06-20T12:02:51.355Z"}
+{"level":"warn","message":"env: user_dev","timestamp":"2024-06-20T12:02:51.356Z"}
+{"level":"info","message":"client_db Connection established","timestamp":"2024-06-20T12:02:51.582Z"}
+{"level":"info","message":"Datatase client is synchronize","timestamp":"2024-06-20T12:02:57.171Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-20T12:04:14.439Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$HCDhCfusM911LBbpyu8ZGeVl6Sy0rSQjgUtCPgL1ZS1CgojTwlXcS\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-06-01T06:01:18.000Z\"}","timestamp":"2024-06-20T12:04:14.626Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-20T12:04:14.627Z"}
+{"level":"error","message":"Authenticate fail","timestamp":"2024-06-20T12:04:14.728Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-20T12:04:15.518Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$HCDhCfusM911LBbpyu8ZGeVl6Sy0rSQjgUtCPgL1ZS1CgojTwlXcS\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-06-01T06:01:18.000Z\"}","timestamp":"2024-06-20T12:04:15.537Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-20T12:04:15.538Z"}
+{"level":"error","message":"Authenticate fail","timestamp":"2024-06-20T12:04:15.610Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-20T12:04:17.178Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$HCDhCfusM911LBbpyu8ZGeVl6Sy0rSQjgUtCPgL1ZS1CgojTwlXcS\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-06-01T06:01:18.000Z\"}","timestamp":"2024-06-20T12:04:17.205Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-20T12:04:17.207Z"}
+{"level":"error","message":"Authenticate fail","timestamp":"2024-06-20T12:04:17.312Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-06-20T12:08:13.550Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$BEZkI4WGs7avr5tpGLh/fej9uwNn82fhZpxaqfWK9sdobG54y1Jyi\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-06-20T12:08:06.000Z\"}","timestamp":"2024-06-20T12:08:13.583Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-06-20T12:08:13.585Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-06-20T12:08:13.655Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzE4ODg1MjkzLCJleHAiOjE3MTg5NzE2OTN9.I7KG5Kq9wQ6U42M1ONxItT_lMYCcXwR82Jv2_I_FCTc","timestamp":"2024-06-20T12:08:13.664Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-06-20T12:08:13.665Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzE4ODg1MjkzLCJleHAiOjE3MTg5NzE2OTN9.I7KG5Kq9wQ6U42M1ONxItT_lMYCcXwR82Jv2_I_FCTc","timestamp":"2024-06-20T12:08:13.679Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-06-20T12:08:13.682Z"}
+{"level":"info","message":"Hello, Winston!","timestamp":"2024-07-13T14:09:27.117Z"}
+{"level":"warn","message":"This is a warning message.","timestamp":"2024-07-13T14:09:27.119Z"}
+{"level":"error","message":"This is an error message.","timestamp":"2024-07-13T14:09:27.120Z"}
+{"level":"info","message":"This is an information message.","timestamp":"2024-07-13T14:09:27.120Z"}
+{"ip":"192.168.1.1","level":"info","message":"User logged in","timestamp":"2024-07-13T14:09:27.121Z","username":"johndoe"}
+{"level":"info","message":"Dcommerce is up","timestamp":"2024-07-13T14:09:27.670Z"}
+{"level":"info","message":"app is runing: 8888","timestamp":"2024-07-13T14:09:27.670Z"}
+{"level":"warn","message":"env: user_dev","timestamp":"2024-07-13T14:09:27.671Z"}
+{"level":"info","message":"client_db Connection established","timestamp":"2024-07-13T14:09:28.221Z"}
+{"level":"info","message":"Datatase client is synchronize","timestamp":"2024-07-13T14:09:32.662Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:10:28.729Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:10:28.735Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:10:36.576Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:10:36.576Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:10:36.585Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:10:36.586Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:12:53.272Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:12:53.273Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:12:53.282Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:12:53.283Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:14:32.641Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:14:32.642Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:14:32.645Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:14:32.645Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:15:31.652Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:15:31.653Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:15:31.659Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:15:31.660Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:16:31.065Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:16:31.067Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:16:33.234Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:16:33.236Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:16:33.252Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:16:33.253Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:16:46.644Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:16:46.646Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:16:46.651Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:16:46.652Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:17:56.196Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:17:56.199Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:17:57.774Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:17:57.776Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:17:57.790Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:17:57.795Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:19:49.533Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:19:49.535Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:19:52.883Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:19:52.885Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:20:17.117Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:20:17.117Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:20:21.360Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:20:21.360Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:20:22.713Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:20:22.714Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:20:22.750Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:20:22.751Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:20:27.548Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:20:27.548Z"}
+{"level":"warn","message":"Validating token...","timestamp":"2024-07-13T14:20:29.963Z"}
+{"level":"warn","message":"User name from token: undefined","timestamp":"2024-07-13T14:20:29.965Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:21:31.171Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:21:31.178Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:21:50.616Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:21:50.624Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:22:11.178Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:22:11.181Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:22:28.034Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:22:28.037Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:22:30.142Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:22:30.142Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:22:42.477Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:22:42.483Z"}
+{"level":"warn","message":"Signout: ","timestamp":"2024-07-13T14:25:28.279Z"}
+{"level":"info","message":"Middleware header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODc5NzA0LCJleHAiOjE3MjA5NjYxMDR9.00sBnERUdeEPLvzLnjJ832NY7agu_69fkfK93Y2TKpY","timestamp":"2024-07-13T14:25:28.281Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-07-13T14:25:37.250Z"}
+{"level":"error","message":"Cannot find user with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-07-13T14:26:32.288Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-07-13T14:26:43.210Z"}
+{"level":"error","message":"Cannot find user with error SequelizeDatabaseError: read ETIMEDOUT","timestamp":"2024-07-13T14:27:04.775Z"}
+{"level":"info","message":"************* User auth  *****************","timestamp":"2024-07-13T14:27:12.178Z"}
+{"level":"info","message":"user found {\"id\":4,\"name\":\"soubin\",\"tel\":\"77150008\",\"password\":\"$2b$10$1T/sTAtDGokRSR6O2.Ir8O/yUSGHIje6ORQJJZxSa7ztSXtS2nTTi\",\"remark\":null,\"isActive\":true,\"createdAt\":\"2024-05-15T13:33:16.000Z\",\"updateTimestamp\":\"2024-06-22T14:15:23.000Z\"}","timestamp":"2024-07-13T14:27:12.295Z"}
+{"level":"info","message":"**********undefined**********","timestamp":"2024-07-13T14:27:12.296Z"}
+{"level":"info","message":"Authenticate succeed","timestamp":"2024-07-13T14:27:12.405Z"}
+{"level":"warn","message":"Token ===> send to client eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODgwODMyLCJleHAiOjE3MjA5NjcyMzJ9.lAE3ramQaFDPQd9J03T3DZh7bY4D0KA5CytRuuq4zWI","timestamp":"2024-07-13T14:27:12.408Z"}
+{"level":"info","message":"Token generated succeed ","timestamp":"2024-07-13T14:27:12.408Z"}
+{"level":"info","message":"Decrypted user request header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6InNvdWJpbiIsInRlbCI6Ijc3MTUwMDA4IiwiaWF0IjoxNzIwODgwODMyLCJleHAiOjE3MjA5NjcyMzJ9.lAE3ramQaFDPQd9J03T3DZh7bY4D0KA5CytRuuq4zWI","timestamp":"2024-07-13T14:27:12.415Z"}
+{"level":"warn","message":"user decrypted undefined","timestamp":"2024-07-13T14:27:12.418Z"}

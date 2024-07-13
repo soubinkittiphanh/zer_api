@@ -6,6 +6,7 @@ const authService = require('./auth/')
 const jwtUtil = require('./api/jwtApi');
 const memberService = require(`./member/service`);
 const accountService = require(`./account/service`);
+const bankService = require(`./bank/service`);
 
 const logger = require('./api/logger');
 const buildApp = async () => {
@@ -34,6 +35,7 @@ const buildApp = async () => {
     app.post("/api/auth/member", authService.authenticateMember)
     app.get("/api/logout", jwtUtil.deleteToken)
     app.get("/me", jwtUtil.getUserFromToken)
+    app.get("/api/noauth/bank", bankService.getAllBanks)
     app.post("/api/auth/reresh", authService.refreshToken)
     app.post("/api/auth/reset", authService.resetPassword)
     app.post("/api/auth/reset/member", authService.resetPasswordMember)
